@@ -1,0 +1,12 @@
+new max 2280 [XK,YH,NM,YP,XS,EI,MW,WK,NC,NU,CX,EA,QC,RA,ZG]
+new max 2307 [XK,YH,NM,YP,XS,CX,EA,NU,WK,NC,EI,MW,QC,RA,ZG]
+new max 2325 [XK,YH,NM,YP,XS,EI,CX,NU,WK,NC,EA,MW,QC,RA,ZG]
+new max 2338 [XK,YH,NM,YP,XS,QC,CX,NU,WK,NC,EA,EI,MW,RA,ZG]
+
+toia@Toias-Work2 day16 % INPUT=input1.txt target/release/day11 
+Max solo 1754
+New max pair 1923 (.0)
+New max pair 2016 (.5)
+New max pair 2169 (.63)
+New max pair 2338 (.65)
+New max pair 2392 (.96)
